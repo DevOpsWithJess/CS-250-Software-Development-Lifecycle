@@ -37,14 +37,6 @@ This repository contains documentation related to Agile project planning and ref
 - Agile project presentation outlining development planning
 - Sprint retrospective analysis reflecting on team processes and improvements
 
-## Repository Structure
-
-```
-docs/
-   agile-project-presentation.pptx
-   sprint-retrospective-analysis.docx
-```
-
 ## Thank You
 This project strengthened my understanding of how software teams organize development work using Agile practices. Instead of building an entire system at once, Agile development focuses on smaller iterations that allow teams to adapt quickly to feedback and changing requirements.
 
