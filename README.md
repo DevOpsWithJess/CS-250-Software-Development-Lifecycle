@@ -1,12 +1,51 @@
-# CS-250-Software-Development-Lifecycle
-Jessica Johnson
-03/02/2025
+# Software Development Lifecycle - Agile Project
 
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-Defining exactly what you intend to build is sometimes the hardest part of Software Development. Gathering Requirements in the beginning and having a plan around how to deal with changes and how to communicate with everyone is essential to a systems success. User stories help to define user requirements for the software you are building. User stories typically follow the: As a [user type], I want [a goal or feature], so that [reason or benefit]. This framework helps create individuale requirements fort eh software. 
+Author: Jessica Johnson  
 
-How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
-I intend to approach program development with a prepared and agile mindeset. Mostly, I hope to incorporate the SCRUM framework to practice agile. I intend to utilize scrum roles, sprint planning, daily scrums, sprint review, and retrospective. I like the interior ideas of the pair-programming for developers and I really like online tool, Jira to increase visibility and communication. 
+## Overview
 
-What does it mean to be a good team member in software development?
-Communiation, abilty to collaborate, base knowledge for their roles, and drive to learn more and be better. 
+This repository contains documentation created while studying the Software Development Lifecycle (SDLC) using Agile development practices. The project focuses on how development teams organize work, define user requirements, and reflect on progress through iterative development cycles.
+
+The goal of this work was to understand how Agile frameworks support collaboration, communication, and continuous improvement throughout the development process.
+
+## Agile Development Approach
+
+Agile development focuses on iterative progress, collaboration, and continuous improvement. Work is organized into smaller tasks called user stories and completed in short development cycles known as sprints.
+
+Key Agile concepts explored in this project include:
+
+- User story development
+- Sprint planning
+- Daily Scrum communication
+- Sprint review
+- Sprint retrospectives
+- Continuous team improvement
+
+## Concepts Demonstrated
+
+- Software Development Lifecycle (SDLC)
+- Agile and Scrum methodology
+- User story creation
+- Sprint planning and iteration
+- Team collaboration
+- Retrospective analysis
+
+## Project Artifacts
+
+This repository contains documentation related to Agile project planning and reflection:
+
+- Agile project presentation outlining development planning
+- Sprint retrospective analysis reflecting on team processes and improvements
+
+## Repository Structure
+
+```
+docs/
+   agile-project-presentation.pptx
+   sprint-retrospective-analysis.docx
+```
+
+## Thank You
+This project strengthened my understanding of how software teams organize development work using Agile practices. Instead of building an entire system at once, Agile development focuses on smaller iterations that allow teams to adapt quickly to feedback and changing requirements.
+
+Working through this process helped reinforce the importance of communication, collaboration, and continuous improvement within development teams.
