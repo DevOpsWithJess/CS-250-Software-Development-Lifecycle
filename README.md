@@ -35,7 +35,9 @@ Key Agile concepts explored in this project include:
 This repository contains documentation related to Agile project planning and reflection:
 
 - Agile project presentation outlining development planning
+- [Agile Project Presentation](agile-project-presentation.pptx)
 - Sprint retrospective analysis reflecting on team processes and improvements
+- [Sprint Retrospective Analysis](sprint-retrospective-analysis.docx)
 
 ## Thank You
 This project strengthened my understanding of how software teams organize development work using Agile practices. Instead of building an entire system at once, Agile development focuses on smaller iterations that allow teams to adapt quickly to feedback and changing requirements.
